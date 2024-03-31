@@ -10,7 +10,10 @@ Jalankan program tersebut dengan menggunakan interpreter Python.
 
 # Output Program
 Program akan menghasilkan beberapa output utama:
-Grafik lintasan peluru: Grafik akan menampilkan perjalanan satelit dari titik peluncuran hingga mencapai ketinggian maksimumnya. Grafik ini menunjukkan perubahan ketinggian dan jarak horizontal satelit seiring dengan waktu.
-Jarak horizontal maksimum: Program akan mencetak nilai jarak horizontal maksimum yang dapat dicapai oleh satelit sebelum masuk ke orbit.
-Waktu yang diperlukan untuk mencapai ketinggian maksimum: Program juga akan mencetak waktu yang dibutuhkan oleh satelit untuk mencapai ketinggian maksimumnya setelah diluncurkan.
-Ketinggian maksimum: Akhirnya, program akan mencetak ketinggian maksimum yang dapat dicapai oleh satelit sebelum memasuki orbit.
+1. Grafik lintasan peluru: Grafik akan menampilkan perjalanan satelit dari titik peluncuran hingga mencapai ketinggian maksimumnya. Grafik ini menunjukkan perubahan ketinggian dan jarak horizontal satelit seiring dengan waktu.
+
+2. Jarak horizontal maksimum: Program akan mencetak nilai jarak horizontal maksimum yang dapat dicapai oleh satelit sebelum masuk ke orbit.
+
+3. Waktu yang diperlukan untuk mencapai ketinggian maksimum: Program juga akan mencetak waktu yang dibutuhkan oleh satelit untuk mencapai ketinggian maksimumnya setelah diluncurkan.
+
+4. Ketinggian maksimum: Akhirnya, program akan mencetak ketinggian maksimum yang dapat dicapai oleh satelit sebelum memasuki orbit.
